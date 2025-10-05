@@ -1,0 +1,7 @@
+C:\Users\LE TRONG TAN\source\repos\Structural_Pattern\Proxy_pattern\bin\Debug\Proxy_pattern.exe.config
+C:\Users\LE TRONG TAN\source\repos\Structural_Pattern\Proxy_pattern\bin\Debug\Proxy_pattern.exe
+C:\Users\LE TRONG TAN\source\repos\Structural_Pattern\Proxy_pattern\bin\Debug\Proxy_pattern.pdb
+C:\Users\LE TRONG TAN\source\repos\Structural_Pattern\Proxy_pattern\obj\Debug\Proxy_pattern.csproj.AssemblyReference.cache
+C:\Users\LE TRONG TAN\source\repos\Structural_Pattern\Proxy_pattern\obj\Debug\Proxy_pattern.csproj.CoreCompileInputs.cache
+C:\Users\LE TRONG TAN\source\repos\Structural_Pattern\Proxy_pattern\obj\Debug\Proxy_pattern.exe
+C:\Users\LE TRONG TAN\source\repos\Structural_Pattern\Proxy_pattern\obj\Debug\Proxy_pattern.pdb

@@ -1,0 +1,7 @@
+C:\Users\LE TRONG TAN\source\repos\Structural_Pattern\Bridge_patttern\bin\Debug\Bridge_patttern.exe.config
+C:\Users\LE TRONG TAN\source\repos\Structural_Pattern\Bridge_patttern\bin\Debug\Bridge_patttern.exe
+C:\Users\LE TRONG TAN\source\repos\Structural_Pattern\Bridge_patttern\bin\Debug\Bridge_patttern.pdb
+C:\Users\LE TRONG TAN\source\repos\Structural_Pattern\Bridge_patttern\obj\Debug\Bridge_patttern.csproj.AssemblyReference.cache
+C:\Users\LE TRONG TAN\source\repos\Structural_Pattern\Bridge_patttern\obj\Debug\Bridge_patttern.csproj.CoreCompileInputs.cache
+C:\Users\LE TRONG TAN\source\repos\Structural_Pattern\Bridge_patttern\obj\Debug\Bridge_patttern.exe
+C:\Users\LE TRONG TAN\source\repos\Structural_Pattern\Bridge_patttern\obj\Debug\Bridge_patttern.pdb

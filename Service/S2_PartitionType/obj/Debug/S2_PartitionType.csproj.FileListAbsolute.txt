@@ -1,0 +1,7 @@
+C:\Users\LE TRONG TAN\source\repos\S2_PartitionType\bin\Debug\S2_PartitionType.exe.config
+C:\Users\LE TRONG TAN\source\repos\S2_PartitionType\bin\Debug\S2_PartitionType.exe
+C:\Users\LE TRONG TAN\source\repos\S2_PartitionType\bin\Debug\S2_PartitionType.pdb
+C:\Users\LE TRONG TAN\source\repos\S2_PartitionType\obj\Debug\S2_PartitionType.csproj.AssemblyReference.cache
+C:\Users\LE TRONG TAN\source\repos\S2_PartitionType\obj\Debug\S2_PartitionType.csproj.CoreCompileInputs.cache
+C:\Users\LE TRONG TAN\source\repos\S2_PartitionType\obj\Debug\S2_PartitionType.exe
+C:\Users\LE TRONG TAN\source\repos\S2_PartitionType\obj\Debug\S2_PartitionType.pdb

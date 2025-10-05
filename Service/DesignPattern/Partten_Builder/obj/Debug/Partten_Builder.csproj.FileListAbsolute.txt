@@ -1,0 +1,7 @@
+C:\Users\LE TRONG TAN\source\repos\DesignPattern\Partten_Builder\bin\Debug\Partten_Builder.exe.config
+C:\Users\LE TRONG TAN\source\repos\DesignPattern\Partten_Builder\bin\Debug\Partten_Builder.exe
+C:\Users\LE TRONG TAN\source\repos\DesignPattern\Partten_Builder\bin\Debug\Partten_Builder.pdb
+C:\Users\LE TRONG TAN\source\repos\DesignPattern\Partten_Builder\obj\Debug\Partten_Builder.csproj.AssemblyReference.cache
+C:\Users\LE TRONG TAN\source\repos\DesignPattern\Partten_Builder\obj\Debug\Partten_Builder.csproj.CoreCompileInputs.cache
+C:\Users\LE TRONG TAN\source\repos\DesignPattern\Partten_Builder\obj\Debug\Partten_Builder.exe
+C:\Users\LE TRONG TAN\source\repos\DesignPattern\Partten_Builder\obj\Debug\Partten_Builder.pdb

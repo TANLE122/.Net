@@ -1,0 +1,2 @@
+C:\Users\LE TRONG TAN\source\repos\JSONXML\JSONXML\obj\Debug\JSONXML.csproj.AssemblyReference.cache
+C:\Users\LE TRONG TAN\source\repos\JSONXML\JSONXML\obj\Debug\JSONXML.csproj.CoreCompileInputs.cache

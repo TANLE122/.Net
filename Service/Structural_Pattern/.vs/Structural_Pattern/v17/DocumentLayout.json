@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LE TRONG TAN\\source\\repos\\Structural_Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{217116AC-F6A9-4E85-BC9F-754EE28DCE00}|Decorator_pattern\\Decorator_pattern.csproj|C:\\Users\\LE TRONG TAN\\source\\repos\\Structural_Pattern\\decorator_pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217116AC-F6A9-4E85-BC9F-754EE28DCE00}|Decorator_pattern\\Decorator_pattern.csproj|solutionrelative:decorator_pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ACFCD6-A20A-4E04-BA37-B4D1C0C1F986}|Proxy_pattern\\Proxy_pattern.csproj|C:\\Users\\LE TRONG TAN\\source\\repos\\Structural_Pattern\\proxy_pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5ACFCD6-A20A-4E04-BA37-B4D1C0C1F986}|Proxy_pattern\\Proxy_pattern.csproj|solutionrelative:proxy_pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E88AB8A-D5B2-4870-82FE-3F0F8F490B90}|Composite_pattern\\Composite_pattern.csproj|c:\\users\\le trong tan\\source\\repos\\structural_pattern\\composite_pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E88AB8A-D5B2-4870-82FE-3F0F8F490B90}|Composite_pattern\\Composite_pattern.csproj|solutionrelative:composite_pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C61FAE-7A56-4463-95D6-83B29C5931D8}|Bridge_patttern\\Bridge_patttern.csproj|C:\\Users\\LE TRONG TAN\\source\\repos\\Structural_Pattern\\bridge_patttern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C61FAE-7A56-4463-95D6-83B29C5931D8}|Bridge_patttern\\Bridge_patttern.csproj|solutionrelative:bridge_patttern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBA81C4-3D54-408F-8EF9-E9B66AFB3319}|DAO\\DAO.csproj|C:\\Users\\LE TRONG TAN\\source\\repos\\Structural_Pattern\\dao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEBA81C4-3D54-408F-8EF9-E9B66AFB3319}|DAO\\DAO.csproj|solutionrelative:dao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841F92AB-A873-40D6-ABAF-E06A7353AB49}|Structural_Pattern\\Structural_Pattern.csproj|C:\\Users\\LE TRONG TAN\\source\\repos\\Structural_Pattern\\structural_pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841F92AB-A873-40D6-ABAF-E06A7353AB49}|Structural_Pattern\\Structural_Pattern.csproj|solutionrelative:structural_pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LE TRONG TAN\\source\\repos\\Structural_Pattern\\Composite_pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Composite_pattern\\Program.cs",
+              "ToolTip": "C:\\Users\\LE TRONG TAN\\source\\repos\\Structural_Pattern\\Composite_pattern\\Program.cs",
+              "RelativeToolTip": "Composite_pattern\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwDcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T09:48:23.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LE TRONG TAN\\source\\repos\\Structural_Pattern\\Decorator_pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Decorator_pattern\\Program.cs",
+              "ToolTip": "C:\\Users\\LE TRONG TAN\\source\\repos\\Structural_Pattern\\Decorator_pattern\\Program.cs",
+              "RelativeToolTip": "Decorator_pattern\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA0wCEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T08:07:28.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LE TRONG TAN\\source\\repos\\Structural_Pattern\\Bridge_patttern\\Program.cs",
+              "RelativeDocumentMoniker": "Bridge_patttern\\Program.cs",
+              "ToolTip": "C:\\Users\\LE TRONG TAN\\source\\repos\\Structural_Pattern\\Bridge_patttern\\Program.cs",
+              "RelativeToolTip": "Bridge_patttern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T06:58:30.798Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LE TRONG TAN\\source\\repos\\Structural_Pattern\\Proxy_pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Proxy_pattern\\Program.cs",
+              "ToolTip": "C:\\Users\\LE TRONG TAN\\source\\repos\\Structural_Pattern\\Proxy_pattern\\Program.cs",
+              "RelativeToolTip": "Proxy_pattern\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwCEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T06:14:33.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LE TRONG TAN\\source\\repos\\Structural_Pattern\\DAO\\Program.cs",
+              "RelativeDocumentMoniker": "DAO\\Program.cs",
+              "ToolTip": "C:\\Users\\LE TRONG TAN\\source\\repos\\Structural_Pattern\\DAO\\Program.cs",
+              "RelativeToolTip": "DAO\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T04:14:27.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LE TRONG TAN\\source\\repos\\Structural_Pattern\\Structural_Pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Structural_Pattern\\Program.cs",
+              "ToolTip": "C:\\Users\\LE TRONG TAN\\source\\repos\\Structural_Pattern\\Structural_Pattern\\Program.cs",
+              "RelativeToolTip": "Structural_Pattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T04:10:47.292Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
