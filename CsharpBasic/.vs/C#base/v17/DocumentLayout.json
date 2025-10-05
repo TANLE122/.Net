@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LE TRONG TAN\\source\\CsharpBasic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69928CA6-1C7B-42DE-AAB5-53A3F17BF76C}|OOP2\\OOP2.csproj|c:\\users\\le trong tan\\source\\csharpbasic\\oop2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69928CA6-1C7B-42DE-AAB5-53A3F17BF76C}|OOP2\\OOP2.csproj|solutionrelative:oop2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF072639-69F4-4B18-884D-525FBBBF02D8}|OOP1\\OOP1.csproj|C:\\Users\\LE TRONG TAN\\source\\CsharpBasic\\oop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF072639-69F4-4B18-884D-525FBBBF02D8}|OOP1\\OOP1.csproj|solutionrelative:oop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB19C0E-F6B9-41FB-B074-32B866860826}|Generic\\Generic.csproj|C:\\Users\\LE TRONG TAN\\source\\CsharpBasic\\generic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB19C0E-F6B9-41FB-B074-32B866860826}|Generic\\Generic.csproj|solutionrelative:generic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC61A104-43CC-437C-832B-5257F5181A65}|Queue\\Queue.csproj|C:\\Users\\LE TRONG TAN\\source\\CsharpBasic\\queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC61A104-43CC-437C-832B-5257F5181A65}|Queue\\Queue.csproj|solutionrelative:queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE36D31-6733-472F-8460-AD61A3195302}|Collection\\Collection.csproj|C:\\Users\\LE TRONG TAN\\source\\CsharpBasic\\collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE36D31-6733-472F-8460-AD61A3195302}|Collection\\Collection.csproj|solutionrelative:collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57C3E5-B391-42AD-B2DD-587D93C0B80C}|OOP\\OOP.csproj|C:\\Users\\LE TRONG TAN\\source\\CsharpBasic\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57C3E5-B391-42AD-B2DD-587D93C0B80C}|OOP\\OOP.csproj|solutionrelative:oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LE TRONG TAN\\source\\CsharpBasic\\Collection\\Program.cs",
+              "RelativeDocumentMoniker": "Collection\\Program.cs",
+              "ToolTip": "C:\\Users\\LE TRONG TAN\\source\\CsharpBasic\\Collection\\Program.cs",
+              "RelativeToolTip": "Collection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T08:03:57.932Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LE TRONG TAN\\source\\CsharpBasic\\OOP2\\Program.cs",
+              "RelativeDocumentMoniker": "OOP2\\Program.cs",
+              "ToolTip": "C:\\Users\\LE TRONG TAN\\source\\CsharpBasic\\OOP2\\Program.cs",
+              "RelativeToolTip": "OOP2\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:27:00.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LE TRONG TAN\\source\\CsharpBasic\\OOP1\\Program.cs",
+              "RelativeDocumentMoniker": "OOP1\\Program.cs",
+              "ToolTip": "C:\\Users\\LE TRONG TAN\\source\\CsharpBasic\\OOP1\\Program.cs",
+              "RelativeToolTip": "OOP1\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T15:44:07.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LE TRONG TAN\\source\\CsharpBasic\\OOP\\Program.cs",
+              "RelativeDocumentMoniker": "OOP\\Program.cs",
+              "ToolTip": "C:\\Users\\LE TRONG TAN\\source\\CsharpBasic\\OOP\\Program.cs",
+              "RelativeToolTip": "OOP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T15:03:46.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LE TRONG TAN\\source\\CsharpBasic\\Queue\\Program.cs",
+              "RelativeDocumentMoniker": "Queue\\Program.cs",
+              "ToolTip": "C:\\Users\\LE TRONG TAN\\source\\CsharpBasic\\Queue\\Program.cs",
+              "RelativeToolTip": "Queue\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T12:03:00.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LE TRONG TAN\\source\\CsharpBasic\\Generic\\Program.cs",
+              "RelativeDocumentMoniker": "Generic\\Program.cs",
+              "ToolTip": "C:\\Users\\LE TRONG TAN\\source\\CsharpBasic\\Generic\\Program.cs",
+              "RelativeToolTip": "Generic\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T04:15:38.674Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

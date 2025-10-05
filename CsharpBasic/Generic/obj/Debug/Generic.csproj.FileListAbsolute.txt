@@ -1,0 +1,7 @@
+C:\Users\LE TRONG TAN\source\CsharpBasic\Generic\bin\Debug\Generic.exe.config
+C:\Users\LE TRONG TAN\source\CsharpBasic\Generic\bin\Debug\Generic.exe
+C:\Users\LE TRONG TAN\source\CsharpBasic\Generic\bin\Debug\Generic.pdb
+C:\Users\LE TRONG TAN\source\CsharpBasic\Generic\obj\Debug\Generic.csproj.AssemblyReference.cache
+C:\Users\LE TRONG TAN\source\CsharpBasic\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache
+C:\Users\LE TRONG TAN\source\CsharpBasic\Generic\obj\Debug\Generic.exe
+C:\Users\LE TRONG TAN\source\CsharpBasic\Generic\obj\Debug\Generic.pdb

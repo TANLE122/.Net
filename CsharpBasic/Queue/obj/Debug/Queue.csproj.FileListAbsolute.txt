@@ -1,0 +1,7 @@
+C:\Users\LE TRONG TAN\source\CsharpBasic\Queue\bin\Debug\Queue.exe.config
+C:\Users\LE TRONG TAN\source\CsharpBasic\Queue\bin\Debug\Queue.exe
+C:\Users\LE TRONG TAN\source\CsharpBasic\Queue\bin\Debug\Queue.pdb
+C:\Users\LE TRONG TAN\source\CsharpBasic\Queue\obj\Debug\Queue.csproj.AssemblyReference.cache
+C:\Users\LE TRONG TAN\source\CsharpBasic\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+C:\Users\LE TRONG TAN\source\CsharpBasic\Queue\obj\Debug\Queue.exe
+C:\Users\LE TRONG TAN\source\CsharpBasic\Queue\obj\Debug\Queue.pdb

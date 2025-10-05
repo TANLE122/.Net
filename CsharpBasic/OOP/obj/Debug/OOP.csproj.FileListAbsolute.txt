@@ -1,0 +1,7 @@
+C:\Users\LE TRONG TAN\source\CsharpBasic\OOP\bin\Debug\OOP.exe.config
+C:\Users\LE TRONG TAN\source\CsharpBasic\OOP\bin\Debug\OOP.exe
+C:\Users\LE TRONG TAN\source\CsharpBasic\OOP\bin\Debug\OOP.pdb
+C:\Users\LE TRONG TAN\source\CsharpBasic\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+C:\Users\LE TRONG TAN\source\CsharpBasic\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Users\LE TRONG TAN\source\CsharpBasic\OOP\obj\Debug\OOP.exe
+C:\Users\LE TRONG TAN\source\CsharpBasic\OOP\obj\Debug\OOP.pdb
