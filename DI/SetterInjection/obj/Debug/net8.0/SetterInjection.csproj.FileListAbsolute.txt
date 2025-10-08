@@ -1,0 +1,15 @@
+C:\Users\LE TRONG TAN\source\DI\SetterInjection\bin\Debug\net8.0\SetterInjection.exe
+C:\Users\LE TRONG TAN\source\DI\SetterInjection\bin\Debug\net8.0\SetterInjection.deps.json
+C:\Users\LE TRONG TAN\source\DI\SetterInjection\bin\Debug\net8.0\SetterInjection.runtimeconfig.json
+C:\Users\LE TRONG TAN\source\DI\SetterInjection\bin\Debug\net8.0\SetterInjection.dll
+C:\Users\LE TRONG TAN\source\DI\SetterInjection\bin\Debug\net8.0\SetterInjection.pdb
+C:\Users\LE TRONG TAN\source\DI\SetterInjection\obj\Debug\net8.0\SetterInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LE TRONG TAN\source\DI\SetterInjection\obj\Debug\net8.0\SetterInjection.AssemblyInfoInputs.cache
+C:\Users\LE TRONG TAN\source\DI\SetterInjection\obj\Debug\net8.0\SetterInjection.AssemblyInfo.cs
+C:\Users\LE TRONG TAN\source\DI\SetterInjection\obj\Debug\net8.0\SetterInjection.csproj.CoreCompileInputs.cache
+C:\Users\LE TRONG TAN\source\DI\SetterInjection\obj\Debug\net8.0\SetterInjection.sourcelink.json
+C:\Users\LE TRONG TAN\source\DI\SetterInjection\obj\Debug\net8.0\SetterInjection.dll
+C:\Users\LE TRONG TAN\source\DI\SetterInjection\obj\Debug\net8.0\refint\SetterInjection.dll
+C:\Users\LE TRONG TAN\source\DI\SetterInjection\obj\Debug\net8.0\SetterInjection.pdb
+C:\Users\LE TRONG TAN\source\DI\SetterInjection\obj\Debug\net8.0\SetterInjection.genruntimeconfig.cache
+C:\Users\LE TRONG TAN\source\DI\SetterInjection\obj\Debug\net8.0\ref\SetterInjection.dll

@@ -1,0 +1,15 @@
+C:\Users\LE TRONG TAN\source\api_example\api_example\bin\Debug\net8.0\api_example.exe
+C:\Users\LE TRONG TAN\source\api_example\api_example\bin\Debug\net8.0\api_example.deps.json
+C:\Users\LE TRONG TAN\source\api_example\api_example\bin\Debug\net8.0\api_example.runtimeconfig.json
+C:\Users\LE TRONG TAN\source\api_example\api_example\bin\Debug\net8.0\api_example.dll
+C:\Users\LE TRONG TAN\source\api_example\api_example\bin\Debug\net8.0\api_example.pdb
+C:\Users\LE TRONG TAN\source\api_example\api_example\obj\Debug\net8.0\api_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LE TRONG TAN\source\api_example\api_example\obj\Debug\net8.0\api_example.AssemblyInfoInputs.cache
+C:\Users\LE TRONG TAN\source\api_example\api_example\obj\Debug\net8.0\api_example.AssemblyInfo.cs
+C:\Users\LE TRONG TAN\source\api_example\api_example\obj\Debug\net8.0\api_example.csproj.CoreCompileInputs.cache
+C:\Users\LE TRONG TAN\source\api_example\api_example\obj\Debug\net8.0\api_example.sourcelink.json
+C:\Users\LE TRONG TAN\source\api_example\api_example\obj\Debug\net8.0\api_example.dll
+C:\Users\LE TRONG TAN\source\api_example\api_example\obj\Debug\net8.0\refint\api_example.dll
+C:\Users\LE TRONG TAN\source\api_example\api_example\obj\Debug\net8.0\api_example.pdb
+C:\Users\LE TRONG TAN\source\api_example\api_example\obj\Debug\net8.0\api_example.genruntimeconfig.cache
+C:\Users\LE TRONG TAN\source\api_example\api_example\obj\Debug\net8.0\ref\api_example.dll

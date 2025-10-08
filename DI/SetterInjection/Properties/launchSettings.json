@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SetterInjection": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
